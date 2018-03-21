@@ -9,7 +9,7 @@ async function print () {
 
 async function createjson() {
   const brands = await getBrands();
-  console.log(brands);
+  //console.log(brands);
   const cars = [];
   brands.forEach(async brand => {
     var carsWithBrand = await getModels(brand);

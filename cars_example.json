@@ -1,0 +1,1101 @@
+[
+    {
+        "brand": "ESTRIMA",
+        "model": "Estrima Biro",
+        "volume": "",
+        "uuid": "9d02e5dd-9918-524a-aa75-74cb4c1a0da0",
+        "name": "ELECTRIQUE"
+    },
+    {
+        "brand": "COURB",
+        "model": "Courb C-zen",
+        "volume": "",
+        "uuid": "b24a2f44-7f71-5aef-8ac8-88b702313dfd",
+        "name": "ELECTRIQUE"
+    },
+    {
+        "brand": "SSANGYONG",
+        "model": "Ssangyong Rodius 2",
+        "volume": "577",
+        "uuid": "f70ebcb7-1a54-5ed6-aa04-e53eaa90640b",
+        "name": "II 220 E-XDI 2WD"
+    },
+    {
+        "brand": "SEAT",
+        "model": "Seat Ibiza 4",
+        "volume": "292",
+        "uuid": "fb81e709-2efe-5fa3-8e17-003bc5e38938",
+        "name": "IV (2) 1.0 75 LAST EDITION"
+    },
+    {
+        "brand": "SEAT",
+        "model": "Seat Ibiza 5",
+        "volume": "355",
+        "uuid": "9cbfe0a3-d4db-56aa-9fa9-883d991bbac2",
+        "name": "V 1.0 ECOTSI 115 FR"
+    },
+    {
+        "brand": "MERCEDES-AMG",
+        "model": "Mercedes-amg Gt",
+        "volume": "350",
+        "uuid": "0edfd656-b590-5498-8cc7-6c070a19b0e4",
+        "name": "4.0 V8 476 GT SPEEDSHIFT 7"
+    },
+    {
+        "brand": "MERCEDES-AMG",
+        "model": "Mercedes-amg Gt Roadster",
+        "volume": "165",
+        "uuid": "476edaa3-9c9f-5675-8f6d-0b190a07ccb3",
+        "name": "ROADSTER 4.0 V8 C EDITION 50"
+    },
+    {
+        "brand": "SUZUKI",
+        "model": "Suzuki Baleno 2",
+        "volume": "355",
+        "uuid": "85788e1e-33ab-5fa0-89fe-158311f87c90",
+        "name": "II 1.0 BOOSTERJET PACK"
+    },
+    {
+        "brand": "SUZUKI",
+        "model": "Suzuki Jimny",
+        "volume": "113",
+        "uuid": "4dd0ef8d-77aa-54d2-b448-e4b18a158a71",
+        "name": "1.3 VVT 85 JX"
+    },
+    {
+        "brand": "SUZUKI",
+        "model": "Suzuki Swift 4",
+        "volume": "265",
+        "uuid": "892a501f-5681-5847-b07d-f993160507fe",
+        "name": "IV 1.0 BOOSTERJET 111 HYBRID SHVS S/S PACK"
+    },
+    {
+        "brand": "JEEP",
+        "model": "Jeep Cherokee 4",
+        "volume": "514",
+        "uuid": "a15884ad-f58b-52ef-a65a-83c15ba53347",
+        "name": "IV 2.0 MJET 140 LONGITUDE"
+    },
+    {
+        "brand": "JEEP",
+        "model": "Jeep Renegade",
+        "volume": "351",
+        "uuid": "7e2a5d01-9f84-530e-8d98-4546e99b4ba1",
+        "name": "1.4 MULTIAIR 140 S&S BROOKLYN LIMITED"
+    },
+    {
+        "brand": "MERCEDES",
+        "model": "Mercedes Citan",
+        "volume": "",
+        "uuid": "b99ed336-afd1-524a-88c1-cc3f55065720",
+        "name": "1.2 112 ESS 114 LONG"
+    },
+    {
+        "brand": "MERCEDES",
+        "model": "Mercedes Gla",
+        "volume": "421",
+        "uuid": "4ec819eb-040c-59f5-8f4d-b53de081a706",
+        "name": "(2) 180 BUSINESS EDITION"
+    },
+    {
+        "brand": "MERCEDES",
+        "model": "Mercedes Gla Amg",
+        "volume": "421",
+        "uuid": "8c8f2e14-ae55-58e0-a561-f01ad0272fe6",
+        "name": "(2) 45 AMG 4MATIC BVA7"
+    },
+    {
+        "brand": "MERCEDES",
+        "model": "Mercedes Gls",
+        "volume": "680",
+        "uuid": "d3a670b3-b8b2-59f0-b82b-7e591b361d0c",
+        "name": "350 D 4MATIC"
+    },
+    {
+        "brand": "MERCEDES",
+        "model": "Mercedes Gls Amg",
+        "volume": "680",
+        "uuid": "6ca50436-6551-5d4d-a127-ba4e6741ac2f",
+        "name": "63 4MATIC AMG"
+    },
+    {
+        "brand": "TOYOTA",
+        "model": "Toyota Avensis 3",
+        "volume": "509",
+        "uuid": "dcec1c14-6ed9-59c6-b9f0-bc73c68860ec",
+        "name": "III (2) 112 D-4D ACTIVE PRO"
+    },
+    {
+        "brand": "TOYOTA",
+        "model": "Toyota Avensis 3 Break",
+        "volume": "543",
+        "uuid": "82e620f0-c795-5d37-b17a-cebeab11ed83",
+        "name": "III (2) SW 132 VVT-I 7CV EXECUTIVE"
+    },
+    {
+        "brand": "TOYOTA",
+        "model": "Toyota Aygo 2",
+        "volume": "168",
+        "uuid": "ac7f92e6-798e-5b1e-a13f-e6ee2d9d127f",
+        "name": "II 1.0 VVT-I 70 X-RED 3P"
+    },
+    {
+        "brand": "TOYOTA",
+        "model": "Toyota C-hr",
+        "volume": "297",
+        "uuid": "3c4fa0ef-8792-5a08-b902-b2390b979433",
+        "name": "1.2 T 116 2WD DYNAMIC BUSINESS"
+    },
+    {
+        "brand": "TOYOTA",
+        "model": "Toyota Gt86",
+        "volume": "237",
+        "uuid": "a718b7a7-1728-5975-be7e-575a2a7b721b",
+        "name": "(2) COUPE 2.0 D-4S 200"
+    },
+    {
+        "brand": "TOYOTA",
+        "model": "Toyota Hilux 4",
+        "volume": "",
+        "uuid": "4442f4ef-caac-50b6-97ff-788ac47793d2",
+        "name": "IV 2WD 2.4 D-4D CHASSIS CABINE BASE"
+    },
+    {
+        "brand": "TOYOTA",
+        "model": "Toyota Prius 4",
+        "volume": "297",
+        "uuid": "aba55f44-9761-59a1-b81c-11d5707ad492",
+        "name": "IV (2) DYNAMIC BUSINESS"
+    },
+    {
+        "brand": "TOYOTA",
+        "model": "Toyota Prius+",
+        "volume": "232",
+        "uuid": "2e693519-fcea-5451-8c41-5773fd85769b",
+        "name": "(2) 136H ACTIVE"
+    },
+    {
+        "brand": "PORSCHE",
+        "model": "Porsche 718 Boxster",
+        "volume": "275",
+        "uuid": "ade924c7-2b9e-58ef-9daf-f64094945146",
+        "name": "BOXSTER"
+    },
+    {
+        "brand": "PORSCHE",
+        "model": "Porsche 718 Cayman",
+        "volume": "425",
+        "uuid": "c310a423-adb9-5529-a5fa-01ac2e78f964",
+        "name": "CAYMAN"
+    },
+    {
+        "brand": "PORSCHE",
+        "model": "Porsche Cayenne 2",
+        "volume": "580",
+        "uuid": "eba08a2d-7c24-5a92-820e-46bb4343ae1d",
+        "name": "II (2) 3.0 S E-HYBRID PLATINUM EDITION TIPTRONIC"
+    },
+    {
+        "brand": "PORSCHE",
+        "model": "Porsche Cayenne 3",
+        "volume": "770",
+        "uuid": "0721eb2e-1e21-5ea2-a82f-67cf2fa97ddc",
+        "name": "III 2.9 V6 440 S"
+    },
+    {
+        "brand": "PORSCHE",
+        "model": "Porsche Panamera 2",
+        "volume": "495",
+        "uuid": "00b540e7-ff3e-5d71-8bae-60e27ff8fe53",
+        "name": "II 4"
+    },
+    {
+        "brand": "PORSCHE",
+        "model": "Porsche Panamera 2 Sport Turismo",
+        "volume": "520",
+        "uuid": "c2be846f-8a6a-51da-ac85-4e7aa25a239a",
+        "name": "II SPORT TURISMO 4"
+    },
+    {
+        "brand": "MASERATI",
+        "model": "Maserati Granturismo",
+        "volume": "260",
+        "uuid": "8ad56c96-353b-5fdb-b773-93578a262208",
+        "name": "4.7 V8 MC AUTO"
+    },
+    {
+        "brand": "MASERATI",
+        "model": "Maserati Levante",
+        "volume": "580",
+        "uuid": "ecede69e-cdcf-51a2-9ffd-d472ce9c3b12",
+        "name": "3.0 V6 430 S AUTO"
+    },
+    {
+        "brand": "ALPINE",
+        "model": "Alpine A110 (2e Generation)",
+        "volume": "",
+        "uuid": "747ed0d9-4977-5522-b94f-66ae31cd4fad",
+        "name": "II 1.8 T 250 PREMIERE EDITION"
+    },
+    {
+        "brand": "HYUNDAI",
+        "model": "Hyundai I10 (2e Generation)",
+        "volume": "252",
+        "uuid": "163e9067-c582-588c-a8f1-f261257f4578",
+        "name": "II (2) 1.0 66 EDITION MONDIAL"
+    },
+    {
+        "brand": "HYUNDAI",
+        "model": "Hyundai I30 (3e Generation)",
+        "volume": "395",
+        "uuid": "31d92877-f930-5e49-a2e6-30091d356c62",
+        "name": "III 1.0 T-GDI 120 BUSINESS"
+    },
+    {
+        "brand": "HYUNDAI",
+        "model": "Hyundai I30 (3e Generation) Fastback",
+        "volume": "450",
+        "uuid": "711387dd-a6ca-51ca-900e-0ecf3bc82141",
+        "name": "III FASTBACK 1.0 T-GDI 120 BUSINESS"
+    },
+    {
+        "brand": "HYUNDAI",
+        "model": "Hyundai I30 (3e Generation) N",
+        "volume": "395",
+        "uuid": "e4b8d965-ea83-509b-9539-d584be9d9856",
+        "name": "III 2.0 T-GDI 275 PERFORMANCE PACK"
+    },
+    {
+        "brand": "HYUNDAI",
+        "model": "Hyundai I30 (3e Generation) Sw",
+        "volume": "602",
+        "uuid": "9c1aca60-5b58-5f00-a7d0-fec740aed262",
+        "name": "III SW 1.0 T-GDI 120 BUSINESS"
+    },
+    {
+        "brand": "HYUNDAI",
+        "model": "Hyundai Ioniq",
+        "volume": "350",
+        "uuid": "91cd4131-1af7-5b7e-8437-4bba5de60ac1",
+        "name": "ELECTRIC CREATIVE"
+    },
+    {
+        "brand": "HYUNDAI",
+        "model": "Hyundai Ix20",
+        "volume": "440",
+        "uuid": "fda7ec2c-6b7c-5ea1-b023-f0059e6d17fa",
+        "name": "(2) 1.4 90 BLUE DRIVE INTUITIVE"
+    },
+    {
+        "brand": "PEUGEOT",
+        "model": "Peugeot 108",
+        "volume": "196",
+        "uuid": "fe0c59d6-1cb6-509d-983f-39b8730b5d60",
+        "name": "1.0 68 S&S ALLURE ETG5 5P"
+    },
+    {
+        "brand": "PEUGEOT",
+        "model": "Peugeot 508",
+        "volume": "473",
+        "uuid": "3046f4be-3730-51a7-b73f-0c40155cb050",
+        "name": "(2) 1.6 BLUEHDI 120 ACTIVE BUSINESS EAT6"
+    },
+    {
+        "brand": "PEUGEOT",
+        "model": "Peugeot 508 Sw",
+        "volume": "512",
+        "uuid": "991edb79-57eb-5c4b-abad-9c43efd81a23",
+        "name": "(2) SW 1.6 BLUEHDI 120 ACTIVE BUSINESS EAT6"
+    },
+    {
+        "brand": "PEUGEOT",
+        "model": "Peugeot Bipper",
+        "volume": "",
+        "uuid": "94281628-9af8-5d60-9aa8-d3715f08d36f",
+        "name": "1.3 HDI STANDARD PREMIUM"
+    },
+    {
+        "brand": "ELV",
+        "model": "Elv Simplycity",
+        "volume": "",
+        "uuid": "12589f15-eeb0-55d4-814c-368717df0f69",
+        "name": "ELV401F"
+    },
+    {
+        "brand": "FORD",
+        "model": "Ford B-max",
+        "volume": "318",
+        "uuid": "3fd37abf-3df2-5faf-9033-9c99ca6bb26f",
+        "name": "1.0 ECOBOOST 125 S&S BUSINESS"
+    },
+    {
+        "brand": "FORD",
+        "model": "Ford C-max 2",
+        "volume": "432",
+        "uuid": "9755e319-dd16-5247-9b0e-a6789cf22da5",
+        "name": "II (2) 1.0 ECOBOOST 100 S&S TITANIUM BV6"
+    },
+    {
+        "brand": "FORD",
+        "model": "Ford Ecosport",
+        "volume": "356",
+        "uuid": "ae3d657b-2bf0-58e2-a501-58627adbc8e9",
+        "name": "(2) 1.0 ECOBOOST 125 6CV ST LINE"
+    },
+    {
+        "brand": "FORD",
+        "model": "Ford Fiesta 5 Affaires",
+        "volume": "",
+        "uuid": "f4269279-1b8b-564c-bab9-be36706d938f",
+        "name": "V AFFAIRES 1.0 ECOBOOST 80"
+    },
+    {
+        "brand": "FORD",
+        "model": "Ford Fiesta 6",
+        "volume": "292",
+        "uuid": "b59e2895-75e1-523b-8367-09a2fd664c1d",
+        "name": "VI 1.0 ECOBOOST 100 S&S  B&O PLAY FIRST EDITION AUTO 5P"
+    },
+    {
+        "brand": "FORD",
+        "model": "Ford Mustang 6 Cabriolet",
+        "volume": "332",
+        "uuid": "c5771b95-6c46-5aeb-bff4-ceb5e7cd0256",
+        "name": "VI (2) CONVERTIBLE 2.3 ECOBOOST BV6"
+    },
+    {
+        "brand": "FORD",
+        "model": "Ford Mustang 6 Coupe",
+        "volume": "408",
+        "uuid": "16ec0aad-a3e2-5436-9dd3-b3402f9eac93",
+        "name": "VI (2) FASTBACK 2.3 ECOBOOST BV6"
+    },
+    {
+        "brand": "KIA",
+        "model": "Kia Stinger",
+        "volume": "406",
+        "uuid": "1fa6c6ea-ce6c-5cc8-9d8e-15d65eb5f614",
+        "name": "2.0 T-GDI 255 ISG 4X2 GT LINE PP BVA8"
+    },
+    {
+        "brand": "CITROEN",
+        "model": "Citroen Berlingo 2",
+        "volume": "",
+        "uuid": "5ae23695-3c84-5272-a4e4-09256d2cf853",
+        "name": "II (2) TAILLE M CLUB"
+    },
+    {
+        "brand": "CITROEN",
+        "model": "Citroen Berlingo 2 Multispace",
+        "volume": "675",
+        "uuid": "3a706265-ad4f-5cb6-b087-75a289f0475f",
+        "name": "II (3) 1.2 PURETECH 110 S&S XTR +"
+    },
+    {
+        "brand": "CITROEN",
+        "model": "Citroen C-elysee",
+        "volume": "506",
+        "uuid": "5da6cd0d-ace3-53d6-824c-88615c67205b",
+        "name": "(2) 1.2 PURETECH 82 LIVE"
+    },
+    {
+        "brand": "CITROEN",
+        "model": "Citroen C-zero",
+        "volume": "166",
+        "uuid": "a0bcca0e-67de-521c-9580-7ac301f4f895",
+        "name": "C-ZERO CONFORT"
+    },
+    {
+        "brand": "CITROEN",
+        "model": "Citroen C1 (2e Generation)",
+        "volume": "196",
+        "uuid": "7cf539b0-5f9b-53ed-8da7-260f1174d114",
+        "name": "II 1.0 VTI 68 AIRSCAPE FEEL 3P"
+    },
+    {
+        "brand": "CITROEN",
+        "model": "Citroen C4 (2e Generation)",
+        "volume": "408",
+        "uuid": "51ba23c4-47e3-55cd-b85a-cb1072ae7e45",
+        "name": "II (2) 1.2 PURETECH 110 LIVE"
+    },
+    {
+        "brand": "CITROEN",
+        "model": "Citroen C4 (2e Generation) Business",
+        "volume": "",
+        "uuid": "56c88c2e-13d9-58f6-a639-8d39914ea236",
+        "name": "II (2) 1.6 BLUEHDI 100 MILLENIUM BUSINESS"
+    },
+    {
+        "brand": "JAGUAR",
+        "model": "Jaguar F-pace",
+        "volume": "650",
+        "uuid": "833852e6-73e2-5a4c-b094-ea2c4225b7fa",
+        "name": "2.0 250 PORTFOLIO 4X4 BVA"
+    },
+    {
+        "brand": "JAGUAR",
+        "model": "Jaguar Xf 2",
+        "volume": "540",
+        "uuid": "24864478-b3ff-57bb-8742-83529ea14ad9",
+        "name": "II 2.0 200 BLACK LIMITED AUTO"
+    },
+    {
+        "brand": "JAGUAR",
+        "model": "Jaguar Xf 2 Sportbrake",
+        "volume": "565",
+        "uuid": "beca2d4f-36c1-5d7a-9c54-44dd5cb96245",
+        "name": "II (2) SPORTBRAKE 2.0 250 PORTFOLIO BVA"
+    },
+    {
+        "brand": "LOTUS",
+        "model": "Lotus Exige",
+        "volume": "112",
+        "uuid": "6d19a7cc-7e4d-5a91-8cbd-83553a908806",
+        "name": "MK2 3.5 V6 CLUB RACER"
+    },
+    {
+        "brand": "BOLLORE",
+        "model": "Bollore Bluecar",
+        "volume": "350",
+        "uuid": "9aeffe33-0de3-55b5-9c8d-cfa09d560af6",
+        "name": "ELECTRIQUE"
+    },
+    {
+        "brand": "MAZDA",
+        "model": "Mazda 2 (3e Generation)",
+        "volume": "280",
+        "uuid": "be67d0f2-b327-55ae-bd8f-2d32beb7be4c",
+        "name": "III 1.5 SKYACTIV-G 115 I-ELOOP SELECTION BV6"
+    },
+    {
+        "brand": "MAZDA",
+        "model": "Mazda 3 (3e Generation)",
+        "volume": "364",
+        "uuid": "3d7809d6-9462-543a-a77c-678ec1309088",
+        "name": "III (2) 1.5 SKYACTIV-D 105 DYNAMIQUE BV6"
+    },
+    {
+        "brand": "DACIA",
+        "model": "Dacia Dokker",
+        "volume": "800",
+        "uuid": "58d5d8a4-3d7a-5944-98e8-e1a96ede9b43",
+        "name": "1.2 TCE 115 SILVER LINE E6"
+    },
+    {
+        "brand": "DACIA",
+        "model": "Dacia Dokker Stepway",
+        "volume": "800",
+        "uuid": "507d8dbe-d798-51f8-a957-d2bbca69364f",
+        "name": "STEPWAY 1.2 TCE 115"
+    },
+    {
+        "brand": "DACIA",
+        "model": "Dacia Duster 2",
+        "volume": "445",
+        "uuid": "505b7219-3b86-59e2-8418-8b90c642d79c",
+        "name": "II 1.2 TCE 125 CONFORT 4X2"
+    },
+    {
+        "brand": "DACIA",
+        "model": "Dacia Logan 2",
+        "volume": "",
+        "uuid": "287bac9a-1c77-5867-9513-700a5b733690",
+        "name": "II (2) 0.9 SCE 75 AMBIANCE"
+    },
+    {
+        "brand": "DACIA",
+        "model": "Dacia Logan 2 Mcv",
+        "volume": "573",
+        "uuid": "022c53b2-59cd-534d-9783-356f1b2fd767",
+        "name": "II (2) 1.0 SCE 75 SILVERLINE"
+    },
+    {
+        "brand": "DACIA",
+        "model": "Dacia Sandero 2",
+        "volume": "320",
+        "uuid": "9c707af5-b5af-58ff-9f19-4071b76fd3d9",
+        "name": "II (2) 0.9 LAUREATE TCE 90 GPL LAUREATE"
+    },
+    {
+        "brand": "DACIA",
+        "model": "Dacia Sandero 2 Stepway",
+        "volume": "320",
+        "uuid": "5b8f1946-607c-5e42-83cd-81c451907e7e",
+        "name": "II (2) STEPWAY 0.9 TCE 90 GPL"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X1 E84",
+        "volume": "480",
+        "uuid": "1e9ba65b-a34c-536d-96a2-4cd76459b4b1",
+        "name": "(E84) (2) SDRIVE18D 143 BUSINESS BVA8"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X1 F48",
+        "volume": "505",
+        "uuid": "d868a34a-9a00-5145-903f-7d2cb292fa8c",
+        "name": "(F48) SDRIVE16D BUSINESS DESIGN"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X3 F25",
+        "volume": "550",
+        "uuid": "e1d40a24-1384-5483-9dce-4fa03f13e16a",
+        "name": "(F25) (2) SDRIVE18D 150 BUSINESS"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X3 G01",
+        "volume": "550",
+        "uuid": "45c5b206-1854-5c58-b831-b350d314b84c",
+        "name": "(G01) M40IA 360"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X4 F26",
+        "volume": "500",
+        "uuid": "7bb88348-33b5-5898-8a7c-67b897371bc4",
+        "name": "(F26) M40I 360 BVA8"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X4 G02",
+        "volume": "525",
+        "uuid": "7d25a889-388c-5373-8c80-15e55bbbf584",
+        "name": "(G02) M40DA 326"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X5 F15",
+        "volume": "650",
+        "uuid": "9e178ebf-02c8-52ae-9bea-475be51450cf",
+        "name": "(F15) M50D 381 BVA8"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X5 F85 M",
+        "volume": "650",
+        "uuid": "7f2d80a7-04be-547a-8673-2a9b435028b7",
+        "name": "(F85) 4.4 M AUTO"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X6 F16",
+        "volume": "580",
+        "uuid": "c8268b1f-338a-58e4-87e0-df8f739dbf28",
+        "name": "(F16) XDRIVE30D 258 EDITION  BVA8"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw X6 F86 M",
+        "volume": "580",
+        "uuid": "7301ecc8-fe77-5c8f-a8e5-6f3f10ac9a26",
+        "name": "(F86) 4.4 M AUTO"
+    },
+    {
+        "brand": "BMW",
+        "model": "Bmw Z4 E89",
+        "volume": "180",
+        "uuid": "7f42275e-0a66-5c9c-9f7a-14922f987c37",
+        "name": "(E89) (2) SDRIVE18I 156 EDITION WORLDLINE"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A1",
+        "volume": "270",
+        "uuid": "61b75aac-77f0-5d72-9c72-96700f7393ea",
+        "name": "(2) 1.0 TFSI 82 ULTRA"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A1 Sportback",
+        "volume": "270",
+        "uuid": "c44aec35-ec80-5998-889c-9cf8eac5db2d",
+        "name": "(2) SPORTBACK 1.0 TFSI 82 ULTRA"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A3 (3e Generation) Berline",
+        "volume": "380",
+        "uuid": "92931c15-2d16-5fe9-b24d-b8e4b9d6f754",
+        "name": "III (2) 1.4 TFSI COD 150"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A3 (3e Generation) Cabriolet",
+        "volume": "320",
+        "uuid": "dc75e77d-ddc0-5a13-9f32-593ef2d33a95",
+        "name": "III (2) CABRIOLET 1.4 TFSI 115"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A3 (3e Generation) Sportback",
+        "volume": "340",
+        "uuid": "0ebf8bf5-5d76-528b-8386-a0937ea21b78",
+        "name": "III (2) 2.0 TDI 184 MIDNIGHT SERIES QUATTRO S TRONIC"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A4 (5e Generation)",
+        "volume": "480",
+        "uuid": "eddf943d-1e37-5f28-8841-0a22b3871396",
+        "name": "V 1.4 TFSI 150"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A4 (5e Generation) Avant",
+        "volume": "505",
+        "uuid": "34b63f0e-96b6-5e23-81b4-d283135d4fc2",
+        "name": "V AVANT 1.4 TFSI 150"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A5 (2e Generation)",
+        "volume": "465",
+        "uuid": "a732370f-10eb-517c-a465-40eeff92c09a",
+        "name": "II 1.4 TFSI 150 AVUS S TRONIC"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A5 (2e Generation) Cabriolet",
+        "volume": "380",
+        "uuid": "6c695af6-941c-5317-8ea0-f317bb8c9e86",
+        "name": "II CABRIOLET 2.0 TDI 190 10CV DESIGN LUXE S TRONIC 7"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A5 Sportback (2e Generation)",
+        "volume": "480",
+        "uuid": "e117f144-4344-5777-932e-1dca1f32582c",
+        "name": "II SPORTBACK 1.4 TFSI 150 AVUS S TRONIC 7"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A6 (4e Generation)",
+        "volume": "530",
+        "uuid": "196f01fd-3d41-5076-b109-f56a3543acc6",
+        "name": "IV (2) 2.0 TDI 150 ULTRA AMBIENTE"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A6 (4e Generation) Avant",
+        "volume": "565",
+        "uuid": "ee8c8c9a-20f4-5823-943c-9242f0bae009",
+        "name": "IV (2) AVANT 2.0 TDI 150 ULTRA AMBIENTE"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A7 Sportback 2",
+        "volume": "535",
+        "uuid": "e6395814-8feb-5da8-a7f4-10861e4820a7",
+        "name": "II 50 TDI AVUS EXTENDED QUATTRO TIPTRONIC 8"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A8 (3e Generation)",
+        "volume": "487",
+        "uuid": "9212db30-083b-5e29-8381-e298d39189d8",
+        "name": "III (2) 4.2 V8 TDI 385 LIMOUSINE AVUS QUATTRO SPORT"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi A8 (4e Generation)",
+        "volume": "505",
+        "uuid": "97117da2-bf9d-52e0-9656-39216ee811bc",
+        "name": "IV 50 TDI 286 AVUS EXTENDED QUATTRO LWB TIPTRONIC 8"
+    },
+    {
+        "brand": "AUDI",
+        "model": "Audi Q3",
+        "volume": "460",
+        "uuid": "806283b6-9d02-5fee-ba13-bfd9d9b34099",
+        "name": "(2) 1.4 TFSI 125"
+    },
+    {
+        "brand": "INFINITI",
+        "model": "Infiniti Fx",
+        "volume": "410",
+        "uuid": "d26a2c28-f79d-5362-91bd-c0d15586517d",
+        "name": "(2) 30D GT BVA"
+    },
+    {
+        "brand": "INFINITI",
+        "model": "Infiniti Q30",
+        "volume": "430",
+        "uuid": "5b5ebae6-dbb8-51d4-8a18-6e6423cfddd5",
+        "name": "1.5D 109"
+    },
+    {
+        "brand": "INFINITI",
+        "model": "Infiniti Q50",
+        "volume": "500",
+        "uuid": "e4ca5ce3-5350-5b82-bd3e-229c689621ac",
+        "name": "(2) 2.0T PREMIUM BVA"
+    },
+    {
+        "brand": "INFINITI",
+        "model": "Infiniti Qx70",
+        "volume": "410",
+        "uuid": "e0e90cf6-3ddd-5b9a-b122-09ccdc460879",
+        "name": "(2) 3.7 S DESIGN"
+    },
+    {
+        "brand": "ABARTH",
+        "model": "Abarth 124 (2e Generation) Spider",
+        "volume": "140",
+        "uuid": "a79eb572-db01-5fa2-841d-0b4ed4c175da",
+        "name": "II 1.4 TURBO 170"
+    },
+    {
+        "brand": "ABARTH",
+        "model": "Abarth 500 (2e Generation)",
+        "volume": "185",
+        "uuid": "76f8555e-07ee-581e-8564-16cb966c7845",
+        "name": "(2) 1.4 TURBO 16V T-JET 145 595"
+    },
+    {
+        "brand": "ABARTH",
+        "model": "Abarth 500 C (2e Generation)",
+        "volume": "185",
+        "uuid": "4411bc09-44d9-544e-984c-50c79f333604",
+        "name": "(2) 1.4 TURBO T-JET 180 695 RIVALE"
+    },
+    {
+        "brand": "NISSAN",
+        "model": "Nissan E-nv200",
+        "volume": "",
+        "uuid": "41f9b0d1-cbe5-5934-bd39-3e561463effd",
+        "name": "109HP ACENTA ELECTRIC AUTO"
+    },
+    {
+        "brand": "NISSAN",
+        "model": "Nissan Nv200",
+        "volume": "",
+        "uuid": "8d25edc9-3686-5435-86b4-e17a27d12fd0",
+        "name": "1.5 DCI 110 COMBI N-CONNECTA"
+    },
+    {
+        "brand": "NISSAN",
+        "model": "Nissan Qashqai 2",
+        "volume": "430",
+        "uuid": "a2ac7a36-861e-52c0-b97d-9e2d42a2aabf",
+        "name": "II (2) 1.2 DIG-T 115 ACENTA"
+    },
+    {
+        "brand": "NISSAN",
+        "model": "Nissan X-trail 3",
+        "volume": "565",
+        "uuid": "df08581e-f9c4-5fcf-a0b5-2085c336187d",
+        "name": "III (2) 1.6 DCI 130 ACENTA"
+    },
+    {
+        "brand": "SKODA",
+        "model": "Skoda Fabia 3",
+        "volume": "330",
+        "uuid": "5304b182-190f-5d9e-97c7-d6510cf5ff32",
+        "name": "III 1.0 MPI 60 ACTIVE"
+    },
+    {
+        "brand": "SKODA",
+        "model": "Skoda Fabia 3 Combi",
+        "volume": "530",
+        "uuid": "209e6e4c-186f-5fe8-accb-f35a5b1d9e42",
+        "name": "III COMBI 1.0 MPI 75 ACTIVE"
+    },
+    {
+        "brand": "SKODA",
+        "model": "Skoda Octavia 3",
+        "volume": "590",
+        "uuid": "ab8f862d-45ab-5bef-8700-93ca1327f867",
+        "name": "III (2) 1.0 TSI 116 ACTIVE"
+    },
+    {
+        "brand": "SKODA",
+        "model": "Skoda Octavia 3 Combi",
+        "volume": "610",
+        "uuid": "a9c2cbf5-9ec4-5dfe-aeb5-acec07dd4be2",
+        "name": "III (2) COMBI 1.0 TSI 116 ACTIVE"
+    },
+    {
+        "brand": "SKODA",
+        "model": "Skoda Octavia 3 Combi Rs",
+        "volume": "610",
+        "uuid": "0d33eb1f-e80c-5c1a-8f65-29f6391ceeb3",
+        "name": "III (2) COMBI 2.0 TDI 184 4X4 RS DSG6"
+    },
+    {
+        "brand": "SKODA",
+        "model": "Skoda Octavia 3 Rs",
+        "volume": "590",
+        "uuid": "4e0043b7-78a0-5960-8dd1-ef45e4fe5f61",
+        "name": "III (2) 2.0 TDI 184 4X4 RS DSG6"
+    },
+    {
+        "brand": "SKODA",
+        "model": "Skoda Octavia 3 Scout",
+        "volume": "610",
+        "uuid": "e6fcd649-afbf-560c-9244-bf96f2819081",
+        "name": "III (2) SCOUT 1.8 TSI 180 4X4 DSG6"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat 124 (2e Generation) Spider",
+        "volume": "140",
+        "uuid": "73407534-241a-5552-9ebb-1fd74cec45c7",
+        "name": "II SPIDER 1.4 MULTIAIR 140"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat 500 (2e Generation)",
+        "volume": "185",
+        "uuid": "c8835d49-bdf1-5707-8889-4b65df47e17c",
+        "name": "II (2) 0.9 8V 105 TWINAIR S/S ANNIVERSARIO"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat 500 (2e Generation) Entreprise",
+        "volume": "",
+        "uuid": "afbc8546-19c1-5bd9-b01c-22f04d0b87c5",
+        "name": "II (2) ENTREPRISE 0.9 105 TWINAIR S/S ANNIVERSARIO"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat 500 C",
+        "volume": "182",
+        "uuid": "1b153d7a-f8af-53b5-a602-1858b6aea5b8",
+        "name": "II (2) C 0.9 105 TWINAIR S/S 60TH"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Doblo 2",
+        "volume": "790",
+        "uuid": "fd4bf1b1-25ee-5330-a513-96ffdf0dd0e7",
+        "name": "II (2) 1.4 95 POP"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Ducato 3",
+        "volume": "",
+        "uuid": "cecb5dc0-46d7-562c-bda9-808c45f67e6e",
+        "name": "3.0 C H1 2.0 MULTIJET 115 PACK"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Fiorino 2 Fourgonnette",
+        "volume": "",
+        "uuid": "54af591b-c1d8-508a-9738-a6843dded634",
+        "name": "II 1.3 MULTIJET 95 PACK"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Fiorino 4 Combi",
+        "volume": "",
+        "uuid": "d952624f-ad41-5cc2-bc42-c2d620b2c126",
+        "name": "IV (2) 1.3 MULTIJET 80 COMBI"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Punto 3",
+        "volume": "275",
+        "uuid": "a42cb7d8-d716-5580-8ab4-ba3b83716b98",
+        "name": "III (3) 0.9 105 TWINAIR EASY 5P"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Punto 3 Societe",
+        "volume": "",
+        "uuid": "366337fd-bb9c-55de-9152-8af5f4f41df0",
+        "name": "III (3) 0.9 105 TWINAIR S/S EASY"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Qubo",
+        "volume": "330",
+        "uuid": "13216790-6a7e-561b-b55e-b566f5c52e18",
+        "name": "(2) 1.3 MULTIJET 16V 80 TREKKING"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Strada 2",
+        "volume": "",
+        "uuid": "7ef60581-099c-5122-9388-6c174ee0d79d",
+        "name": "II 1.3 MULTIJET 95 CABINE COURTE TREKKING"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Talento",
+        "volume": "",
+        "uuid": "7b4d3ccf-fa8d-5cd1-b10b-121d552fb4b9",
+        "name": "CABINE APPROFONDIE 1.6 MULTIJET 120 PACK"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Talento Panorama",
+        "volume": "",
+        "uuid": "4ac8930f-1ba2-5fcb-8582-d8f55bb62799",
+        "name": "PANORAMA 1.2 CH1 1.6 MULTIJET 125"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Tipo 2",
+        "volume": "440",
+        "uuid": "74ccb80b-8dd1-5d22-a8e2-d8ad016dcd7c",
+        "name": "II 1.3 MULTIJET 95 S/S 5P"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Tipo 2 Berline",
+        "volume": "520",
+        "uuid": "fc726727-9b17-575f-b826-77f49d100576",
+        "name": "II 1.3 MULTIJET 95 4P"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Tipo 2 Commerciale",
+        "volume": "",
+        "uuid": "866ba9fe-5023-5bfe-b9b3-92ebdc00ba01",
+        "name": "II 1.3 MULTIJET 95 S/S 5P"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Tipo 2 Sw",
+        "volume": "550",
+        "uuid": "9f75a7c9-e1c3-5327-8a16-5f98206d49c3",
+        "name": "II SW 1.3 MULTIJET 95 S/S"
+    },
+    {
+        "brand": "FIAT",
+        "model": "Fiat Tipo 2 Sw Commerciale",
+        "volume": "",
+        "uuid": "021c383c-24b2-5306-ba1f-b1a6e61873f2",
+        "name": "II SW 1.3 MULTIJET 95 S/S"
+    },
+    {
+        "brand": "OPEL",
+        "model": "Opel Insignia 2 Country Tourer",
+        "volume": "560",
+        "uuid": "14315b4f-32a2-591a-b820-8eba9c59c2ca",
+        "name": "II (2) COUNTRY TOURER 2.0 DIESEL 170 BLUEINJECTION"
+    },
+    {
+        "brand": "OPEL",
+        "model": "Opel Insignia 2 Grand Sport",
+        "volume": "490",
+        "uuid": "bd56d467-8729-5b88-824f-5de7b345ed56",
+        "name": "II 1.5 ECOTEC 140 BUSINESS EDITION PACK"
+    },
+    {
+        "brand": "OPEL",
+        "model": "Opel Insignia 2 Sports Tourer",
+        "volume": "560",
+        "uuid": "07820c89-2874-5fda-b436-60e5879922a3",
+        "name": "II SPORTS TOURER 1.5 ECOTEC TURBO 165 INNOVATION"
+    },
+    {
+        "brand": "OPEL",
+        "model": "Opel Karl",
+        "volume": "206",
+        "uuid": "99b5ab1d-d555-5531-8cdd-d7e25529ac8f",
+        "name": "1.0 73 EDITION"
+    },
+    {
+        "brand": "MINI",
+        "model": "Mini Countryman 2",
+        "volume": "450",
+        "uuid": "d5d01061-507d-5bf4-b6dd-fb73af99ad76",
+        "name": "II COOPER 136 ALL4 EDITION OAKWOOD BV6"
+    },
+    {
+        "brand": "MINI",
+        "model": "Mini Countryman 2 Jcw",
+        "volume": "450",
+        "uuid": "a6337390-1283-5d48-b317-26fa3c720a52",
+        "name": "II JCW 231 BV6"
+    },
+    {
+        "brand": "MINI",
+        "model": "Mini Countryman Jcw",
+        "volume": "350",
+        "uuid": "8d015033-bb7a-5167-9ae5-3a8336190bdd",
+        "name": "(2) 1.6 JOHN COOPER WORKS 218 ALL4 BVA"
+    },
+    {
+        "brand": "MEV",
+        "model": "Mev Hummer",
+        "volume": "",
+        "uuid": "32e7e995-a23a-5ac2-ac2e-4d828feaa55e",
+        "name": "HX"
+    },
+    {
+        "brand": "MEV",
+        "model": "Mev Hummer Cabriolet",
+        "volume": "",
+        "uuid": "a7ad7ad4-363b-5914-bfc5-29d53cb3ba6c",
+        "name": "CABRIOLET HX T"
+    },
+    {
+        "brand": "MEV",
+        "model": "Mev Hummer Cabriolet Limo",
+        "volume": "",
+        "uuid": "4bb9ba5c-0e33-5ea6-93d2-e8cc3cdc5456",
+        "name": "CABRIOLET HX T LIMO"
+    },
+    {
+        "brand": "MEV",
+        "model": "Mev Zip",
+        "volume": "",
+        "uuid": "e1fbc21c-e9b3-5551-863c-d2f3d75d9da7",
+        "name": "72V"
+    },
+    {
+        "brand": "MEV",
+        "model": "Mev Zip Cargo",
+        "volume": "",
+        "uuid": "9d898c37-9de4-5c2d-9df0-a68381b4d991",
+        "name": "CARGO"
+    },
+    {
+        "brand": "MEV",
+        "model": "Mev Zip S",
+        "volume": "",
+        "uuid": "3d6bb5f7-6514-5254-9544-8e02a9c11cc1",
+        "name": "S"
+    },
+    {
+        "brand": "SUBARU",
+        "model": "Subaru Brz",
+        "volume": "243",
+        "uuid": "16142587-7eef-5dc3-a662-d15605bfbc18",
+        "name": "(2) 2.0 200"
+    },
+    {
+        "brand": "SUBARU",
+        "model": "Subaru Outback 4",
+        "volume": "559",
+        "uuid": "18c06a5b-634f-553d-9ea5-63ba2e0c4b4c",
+        "name": "IV 2.0D EXCLUSIVE EYESIGHT LINEARTRONIC"
+    },
+    {
+        "brand": "SUBARU",
+        "model": "Subaru Outback 5",
+        "volume": "559",
+        "uuid": "c6542ab3-6001-573b-9fed-ea98da7a0644",
+        "name": "IV 2.5I 175 PREMIUM EYESIGHT LINEARTRONIC"
+    },
+    {
+        "brand": "SUBARU",
+        "model": "Subaru Xv",
+        "volume": "380",
+        "uuid": "d4f897ba-7131-5535-82be-e34a497d89c6",
+        "name": "(2) 1.6 4WD PREMIUM"
+    },
+    {
+        "brand": "SUBARU",
+        "model": "Subaru Xv 2",
+        "volume": "385",
+        "uuid": "0a5d804a-a393-5995-8486-a6fe6d62c579",
+        "name": "II 1.6 114 LUXURY"
+    }
+]
